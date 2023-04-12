@@ -1,4 +1,5 @@
 ### Hi tech world 👋
+<h1>I'm Rachel, a new (and continously learning) full stack developer 👩‍💻</h1>
 
 <!--
 **rachelscjones/rachelscjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
