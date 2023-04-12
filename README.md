@@ -1,4 +1,6 @@
-### I'm Rachel, a new (and continously learning) full stack developer 👩‍💻
+### Hello world, I'm Rachel
+
+<h4>I am a new (and continously learning) full stack developer 👩‍💻, based in London</h4>
 
 <!--
 **rachelscjones/rachelscjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
